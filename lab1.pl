@@ -32,8 +32,16 @@ drive(farhan,car). % Farhan drives Car
 likes(ali,icecream). % Ali Likes Ice Cream
 friend(ali,farhan). % Ali is a friend of farhan
 play(ali,cricket).% Ali plays cricket
+sister(faria,arham).% Faria is a sister of Arham
+enemy (sara,saima). % sara is enemy of saima
 
 % Fact
 little(john). % John is little
 forgot(ali,raincoat). % Ali forgot his raincoat
 lost(usama,keys). % usama lost his keys
+university(aims).
+is(raining).
+fly(birds).
+off(switch).
+
+
